@@ -9,13 +9,18 @@
       ]
     },
     {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
       "uuid": "596a2aa1-c9b7-488d-88cb-3e5daa51041b",
       "includes": [
-        "media",
-        "label",
-        "description"
+        "media"
       ],
-      "file": "94db8540-c940-46dd-a931-b6078d0b779d",
       "type": "event",
       "children": [
         {
@@ -40,6 +45,6 @@
   "slug": "00-creating-an-avannotate-project",
   "created_at": "2026-02-03T21:40:04.480Z",
   "created_by": "trentwintermeier",
-  "updated_at": "2026-02-03T21:40:04.480Z",
+  "updated_at": "2026-02-03T21:43:03.839Z",
   "updated_by": "trentwintermeier"
 }
