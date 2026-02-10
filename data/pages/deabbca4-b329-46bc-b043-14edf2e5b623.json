@@ -9,13 +9,11 @@
       ]
     },
     {
-      "type": "event",
       "uuid": "5aa091c9-62cc-403a-823a-c6a0db63d725",
       "includes": [
-        "media",
-        "annotations",
-        "description"
+        "media"
       ],
+      "type": "event",
       "children": [
         {
           "text": ""
@@ -35,7 +33,7 @@
   "created_by": "trentwintermeier",
   "title": "00 - Creating an AVAnnotate Project",
   "slug": "00-creating-an-avannotate-project-2",
-  "updated_at": "2026-02-10T20:13:08.450Z",
+  "updated_at": "2026-02-10T20:13:28.708Z",
   "updated_by": "trentwintermeier",
   "autogenerate": {
     "enabled": false,
