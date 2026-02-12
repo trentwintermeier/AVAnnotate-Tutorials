@@ -1,5 +1,231 @@
 {
-  "annotations": [],
+  "annotations": [
+    {
+      "start_time": 3,
+      "end_time": 15,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "To create a new project in AVAnnotate, first ensure you are on the “My Projects” page. “Shared Projects” indicates projects that other users have created and shared access with you, while “My Projects” allows you to create new projects under your own GitHub account."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Transcript",
+          "category": "Notes"
+        },
+        {
+          "tag": "GitHub Account",
+          "category": "GitHub"
+        },
+        {
+          "tag": "Shared Projects",
+          "category": "Collaboration"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Navigation"
+        }
+      ],
+      "uuid": "684a017a-478d-4d66-aaba-70c384a4d14b"
+    },
+    {
+      "start_time": 15,
+      "end_time": 28,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Select “Add Project,” and then we’re going to enter some information about your new project. First, use the dropdown to select the name of the GitHub Organization that the project will belong to. This will likely be your GitHub username, though it can also be a team repository."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Transcript",
+          "category": "Notes"
+        },
+        {
+          "tag": "GitHub Organization",
+          "category": "GitHub"
+        }
+      ],
+      "uuid": "d7eaa8fe-40bf-4a3a-8612-cfd19c73eb81"
+    },
+    {
+      "start_time": 29,
+      "end_time": 39,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Next, you’ll make a selection about the project’s public accessibility. Selecting a Private Repository ensures that the project is not published online. You can switch this access setting later."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Transcript",
+          "category": "Notes"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Public Respository"
+        },
+        {
+          "tag": "Private Repository",
+          "category": "Accessibility"
+        }
+      ],
+      "uuid": "d3744c14-7095-433b-9d77-a63d79f084c5"
+    },
+    {
+      "start_time": 39,
+      "end_time": 48,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Next, enter a title for your project, and a brief description. We copied this description from another version of this project, but you can type directly into the description field."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Transcript",
+          "category": "Notes"
+        },
+        {
+          "tag": "Description",
+          "category": "Project Components"
+        }
+      ],
+      "uuid": "fd5ace38-e9e3-4f0e-902e-d208a0799170"
+    },
+    {
+      "start_time": 49,
+      "end_time": 51,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Then, select the language you’ll build the project in."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Transcript",
+          "category": "Notes"
+        }
+      ],
+      "uuid": "8e86421a-2f9a-41fc-ba4e-44331ddb5d75"
+    },
+    {
+      "start_time": 52,
+      "end_time": 65,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Now enter a project slug. A slug is the last part of a URL that serves as a unique identifier for the project. You want the slug to be relatively short and without spaces. Use alphanumeric characters only, though hyphens are fine."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Transcript",
+          "category": "Notes"
+        }
+      ],
+      "uuid": "8ed38317-f93e-4332-96b0-1a6869aeb1b8"
+    },
+    {
+      "start_time": 66,
+      "end_time": 74,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Next add the names of any project contributors. This information will appear at the bottom of your completed AVAnnotate project, like an author byline."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Transcript",
+          "category": "Notes"
+        }
+      ],
+      "uuid": "fbad45ad-b13f-4845-b12b-59bdc987bcbb"
+    },
+    {
+      "start_time": 75,
+      "end_time": 88,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Finally, you’ll have the opportunity to add other GitHub contributors to collaborate on your project. To do this, you’ll need your collaborator’s GitHub username. Adding collaborators lets other users have access to the backend of your project."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Transcript",
+          "category": "Notes"
+        },
+        {
+          "tag": "Collaborators",
+          "category": "Collaboration"
+        },
+        {
+          "tag": "GitHub Account",
+          "category": "GitHub"
+        }
+      ],
+      "uuid": "73178090-3624-4b41-8b4f-5793cb55ca8f"
+    },
+    {
+      "start_time": 89,
+      "end_time": 94,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Finally, save this information and create the new project by selecting “Create Project.”"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Transcript",
+          "category": "Notes"
+        }
+      ],
+      "uuid": "6e1830a4-7de0-459b-8963-84e801942a03"
+    }
+  ],
   "set": "Default",
   "event_id": "5aa091c9-62cc-403a-823a-c6a0db63d725",
   "source_id": "6ded1a5a-ddb8-470c-8cc1-516542de3cff"
