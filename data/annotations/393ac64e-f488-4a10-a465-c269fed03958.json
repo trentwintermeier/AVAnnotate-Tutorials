@@ -1,5 +1,189 @@
 {
-  "annotations": [],
+  "annotations": [
+    {
+      "start_time": 2,
+      "end_time": 18,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Once you’ve created your AVAnnotate project, the next step is to link your audiovisual events to the project. On this screen, you’ll notice that The AVAnnotate application interface is split into two primary sections: Data Manager and Site Builder, the latter is discussed in a later video."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Transcript",
+          "category": "Notes"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Data Manager"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Site Builder"
+        }
+      ],
+      "uuid": "d214f210-4e79-4546-8ad4-c8601543d8fd"
+    },
+    {
+      "start_time": 19,
+      "end_time": 42,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "In the Data Manager section, a project author can import, upload, edit, and add all of the data associated with Annotations, Events, and Tags. The Events tab allows users to upload, create, and edit Events. Events are a central conceptual element of an AVAnnotate project and may comprise one or more AV files, which may be associated with time-stamped annotations.). "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Transcript",
+          "category": "Notes"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Data Manager"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Events"
+        }
+      ],
+      "uuid": "9fe21103-0370-4276-a30b-901e60b530cd"
+    },
+    {
+      "start_time": 43,
+      "end_time": 55,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The Tags tab allows users to upload, create, and edit project-wide tags and tag groups. Tags are labels used in a published AVAnnotate project to index, organize, and discover topics in the annotations."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Transcript",
+          "category": "Notes"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Tags"
+        }
+      ],
+      "uuid": "f4b93a6c-8352-4174-9cbe-64a822545807"
+    },
+    {
+      "start_time": 56,
+      "end_time": 71,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "First, we need to add an event by selecting “Add,” then “Import.” When you import an event, you’re telling AVAnnotate that you already have a file that includes all of the necessary information for AVAnnotate to reference your audiovisual file."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Transcript",
+          "category": "Notes"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Events"
+        }
+      ],
+      "uuid": "da900db3-ca95-4947-bddd-970e5c925e76"
+    },
+    {
+      "start_time": 72,
+      "end_time": 89,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "To do this, we recommend using the AVAnnotate Event template, which you can find on our website. The Event template is a downloadable spreadsheet that provides space for you to input information about the Event label, item type, file label, file URL, and an optional citation and description."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Transcript",
+          "category": "Notes"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Spreadsheet Templates"
+        }
+      ],
+      "uuid": "af7cd1ba-e32c-4a07-a66d-747c8874f16e"
+    },
+    {
+      "start_time": 90,
+      "end_time": 106,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Once you’ve filled out the event spreadsheet and selected it for upload to AVAnnotate, you’ll be prompted to configure the data from the file, which means you’re making sure AVAnnotate reads your event file correctly. Use the dropdown menus to match the information from your spreadsheet."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Transcript",
+          "category": "Notes"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Events"
+        }
+      ],
+      "uuid": "73c12369-42a7-444d-8eab-717b0b10292a"
+    },
+    {
+      "start_time": 113,
+      "end_time": 118,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Once you’ve configured the data, the option to “Import” should appear. Select “Import,” and then select “Save Event.”"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Transcript",
+          "category": "Notes"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Events"
+        }
+      ],
+      "uuid": "c9971598-dd86-4891-bc07-90e407685dd7"
+    }
+  ],
   "set": "Default",
   "event_id": "371c7789-8f25-4603-9ed0-38e451963453",
   "source_id": "5af8410b-b3b7-458f-a97e-dced14276d06"
