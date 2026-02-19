@@ -37,7 +37,7 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "In the Data Manager section, a project author can import, upload, edit, and add all of the data associated with Annotations, Events, and Tags. The Events tab allows users to upload, create, and edit Events. Events are a central conceptual element of an AVAnnotate project and may comprise one or more AV files, which may be associated with time-stamped annotations.). "
+              "text": "In the Data Manager section, a project author can import, upload, edit, and add all of the data associated with Annotations, Events, and Tags. The Events tab allows users to upload, create, and edit Events. Events are a central conceptual element of an AVAnnotate project and may comprise one or more AV files, which may be associated with time-stamped annotations. "
             }
           ]
         }
