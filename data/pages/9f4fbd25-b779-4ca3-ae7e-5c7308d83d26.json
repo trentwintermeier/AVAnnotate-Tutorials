@@ -9,13 +9,20 @@
       ]
     },
     {
-      "type": "event",
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
       "uuid": "371c7789-8f25-4603-9ed0-38e451963453",
       "includes": [
         "media",
-        "annotations",
-        "description"
+        "annotations"
       ],
+      "type": "event",
       "children": [
         {
           "text": ""
@@ -35,7 +42,7 @@
   "created_by": "trentwintermeier",
   "title": "01A - Importing Audiovisual Events in Data Manager",
   "slug": "01a-importing-audiovisual-events-in-data-ma",
-  "updated_at": "2026-02-19T18:25:50.380Z",
+  "updated_at": "2026-02-19T18:26:21.349Z",
   "updated_by": "trentwintermeier",
   "autogenerate": {
     "enabled": false,
